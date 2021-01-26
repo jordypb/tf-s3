@@ -1,0 +1,5 @@
+miregion = ""
+miprofile = ""
+name = "lambda-packages"
+environment = "qa"
+runtime = "python3.8"
